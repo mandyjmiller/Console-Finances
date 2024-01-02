@@ -96,7 +96,7 @@ function financialAnalysis(finances) {
   var greatestDecrease = { month: '', amount: 0 };
   var totalChange = 0;
 
-  // Loops through the dataset to calculate values of the data, month is the first item in array [0], profitLoss is the second [1] 
+  // Loops through the dataset to calculate values of the data, month is the first item in array [0], profitLoss is the second [1] also calculates monthly change and totalChange
   for (var i = 0; i < finances.length; i++) {
     var month = finances[i][0];
     var profitLoss = finances[i][1];
