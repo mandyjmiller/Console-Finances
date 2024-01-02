@@ -44,8 +44,7 @@ Screenshot of the site can be seen here:
 
 Shout out to the teaching team at EdX and fellow students for help and collaboration.
 
-Tutorials and base materials from  [Module 4 Challenge](https://bootcampspot.instructure.com/courses/5651/assignments/67060)
-
+Tutorials and base materials from  [Module 4 Challenge](https://bootcampspot.instructure.com/courses/5651/assignments/67062)
 
 ## License
 
